@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="FilterCollectionViewCell" id="gTV-IL-0wX" customClass="FilterCollectionViewCell" customModule="VPLATE_RE" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="249" height="308"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="249" height="308"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ibR-8A-g7g">
+                        <rect key="frame" x="107" y="258" width="93" height="18"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="18" id="nYJ-k1-R1A"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" red="0.79607843137254897" green="0.79607843137254897" blue="0.79607843137254897" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qAA-EE-cX3">
+                        <rect key="frame" x="5" y="10" width="239" height="239"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back" translatesAutoresizingMaskIntoConstraints="NO" id="C4z-0D-3ja">
+                                <rect key="frame" x="72" y="72" width="95.5" height="95.5"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="C4z-0D-3ja" secondAttribute="height" multiplier="1:1" id="D4c-EC-wMW"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="C4z-0D-3ja" firstAttribute="centerY" secondItem="qAA-EE-cX3" secondAttribute="centerY" id="0t3-YF-ZR8"/>
+                            <constraint firstItem="C4z-0D-3ja" firstAttribute="centerX" secondItem="qAA-EE-cX3" secondAttribute="centerX" id="Em3-Ax-vog"/>
+                            <constraint firstItem="C4z-0D-3ja" firstAttribute="width" secondItem="qAA-EE-cX3" secondAttribute="width" multiplier="0.4" id="c7j-i2-ctX"/>
+                            <constraint firstAttribute="width" secondItem="qAA-EE-cX3" secondAttribute="height" multiplier="1:1" id="kqx-48-IJv"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="qAA-EE-cX3" secondAttribute="trailing" constant="5" id="3dS-bQ-THx"/>
+                <constraint firstItem="ibR-8A-g7g" firstAttribute="centerX" secondItem="ZTg-uK-7eu" secondAttribute="centerX" id="R2G-NB-zaZ"/>
+                <constraint firstItem="ibR-8A-g7g" firstAttribute="top" secondItem="qAA-EE-cX3" secondAttribute="bottom" constant="9" id="fSd-2J-0P8"/>
+                <constraint firstItem="qAA-EE-cX3" firstAttribute="centerX" secondItem="ZTg-uK-7eu" secondAttribute="centerX" id="gAi-Sf-meP"/>
+                <constraint firstItem="qAA-EE-cX3" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="10" id="sbb-60-fBx"/>
+                <constraint firstItem="qAA-EE-cX3" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="5" id="vWF-E6-BHt"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="249" height="308"/>
+            <connections>
+                <outlet property="backView" destination="qAA-EE-cX3" id="Lbo-r1-i7m"/>
+                <outlet property="iconImageView" destination="C4z-0D-3ja" id="BMg-85-DXX"/>
+                <outlet property="titleLabel" destination="ibR-8A-g7g" id="E0M-yz-Mi1"/>
+            </connections>
+            <point key="canvasLocation" x="133.5" y="152"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="back" width="1080" height="1920"/>
+    </resources>
+</document>

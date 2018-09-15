@@ -1,0 +1,249 @@
+
+/* Class = "UILabel"; text = "사업자입니다."; ObjectID = "1MN-jO-ald"; */
+"1MN-jO-ald.text" = "사업자입니다.";
+
+/* Class = "UIButton"; normalTitle = "Refresh"; ObjectID = "1Vv-Dg-vPU"; */
+"1Vv-Dg-vPU.normalTitle" = "Refresh";
+
+/* Class = "UILabel"; text = "사업 내용"; ObjectID = "2HN-Fm-Qy3"; */
+"2HN-Fm-Qy3.text" = "사업 내용";
+
+/* Class = "UILabel"; text = "무슨 말을 할까 어디서부터 어떻게"; ObjectID = "2fM-UN-Kai"; */
+"2fM-UN-Kai.text" = "무슨 말을 할까 어디서부터 어떻게";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "2wc-ja-SLX"; */
+"2wc-ja-SLX.text" = "Title";
+
+/* Class = "UIViewController"; title = "Receipt"; ObjectID = "3tX-At-va2"; */
+"3tX-At-va2.title" = "Receipt";
+
+/* Class = "UITextField"; placeholder = "비밀번호"; ObjectID = "58R-WL-oYy"; */
+"58R-WL-oYy.placeholder" = "비밀번호";
+
+/* Class = "UIButton"; normalTitle = "수정하기"; ObjectID = "6QZ-WU-OuF"; */
+"6QZ-WU-OuF.normalTitle" = "수정하기";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7PU-wR-IxD"; */
+"7PU-wR-IxD.text" = "Title";
+
+/* Class = "UILabel"; text = "렌더링 시작하겠습니다."; ObjectID = "7dk-P2-Nhu"; */
+"7dk-P2-Nhu.text" = "렌더링 시작하겠습니다.";
+
+/* Class = "UILabel"; text = "Coupon"; ObjectID = "7zp-mL-wLp"; */
+"7zp-mL-wLp.text" = "쿠폰";
+
+/* Class = "UIButton"; normalTitle = "1500$"; ObjectID = "A0N-4i-ni0"; */
+"A0N-4i-ni0.normalTitle" = "1500₩";
+
+/* Class = "UINavigationItem"; title = "My Template"; ObjectID = "Abn-sq-gR8"; */
+"Abn-sq-gR8.title" = "나의 템플릿";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Aof-X9-FZS"; */
+"Aof-X9-FZS.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "형태"; ObjectID = "Cjy-Zo-Her"; */
+"Cjy-Zo-Her.text" = "형태";
+
+/* Class = "UILabel"; text = "더보기"; ObjectID = "Dqq-xS-UAA"; */
+"Dqq-xS-UAA.text" = "더보기";
+
+/* Class = "UILabel"; text = "사업자가 아닙니다"; ObjectID = "ERh-kr-mOe"; */
+"ERh-kr-mOe.text" = "사업자가 아닙니다";
+
+/* Class = "UILabel"; text = "회사 소재지"; ObjectID = "FeZ-p9-Hl1"; */
+"FeZ-p9-Hl1.text" = "회사 소재지";
+
+/* Class = "UILabel"; text = "Scene 1"; ObjectID = "GgS-rn-7Dp"; */
+"GgS-rn-7Dp.text" = "Scene 1";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "GtU-Lf-AAl"; */
+"GtU-Lf-AAl.normalTitle" = "SAVE";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "ILG-IV-ahg"; */
+"ILG-IV-ahg.normalTitle" = "Facebook";
+
+/* Class = "UITextView"; text = "⦁ 영상 확정 이후에만 본 영상의 상업적 사용 및 배포가 \n가능합니다. \n⦁ 영상 확정 이후에는 추가 수정이 불가능 합니다. \n⦁ 이 영상은 7일 이내에 총 3번의 수정이 가능합니다. \n⦁ 최초 렌더링 기준일로부터 7일 이후에는 자동으로 확정 \n처리를 하니, 이 부분 유의하여 수정 및 확정에 \n대한 선택을 진행해주시기 바랍니다.  \n⦁ 수정을 원하시면 수정하기를 터치해주시기 바랍니다. \n⦁ 브이플레이트는 템플릿에 사용하신 고객님의 사진 및 \n영상으로 인한 저작권 문제에 대해 책임지지 않습니다"; ObjectID = "Iek-uK-fQt"; */
+"Iek-uK-fQt.text" = "⦁ 영상 확정 이후에만 본 영상의 상업적 사용 및 배포가 \n가능합니다. \n⦁ 영상 확정 이후에는 추가 수정이 불가능 합니다. \n⦁ 이 영상은 7일 이내에 총 3번의 수정이 가능합니다. \n⦁ 최초 렌더링 기준일로부터 7일 이후에는 자동으로 확정 \n처리를 하니, 이 부분 유의하여 수정 및 확정에 \n대한 선택을 진행해주시기 바랍니다.  \n⦁ 수정을 원하시면 수정하기를 터치해주시기 바랍니다. \n⦁ 브이플레이트는 템플릿에 사용하신 고객님의 사진 및 \n영상으로 인한 저작권 문제에 대해 책임지지 않습니다";
+
+/* Class = "UIButton"; normalTitle = "회원가입"; ObjectID = "Iql-1a-oyd"; */
+"Iql-1a-oyd.normalTitle" = "회원가입";
+
+/* Class = "UIButton"; normalTitle = "약관"; ObjectID = "Ix6-TB-ale"; */
+"Ix6-TB-ale.normalTitle" = "약관";
+
+/* Class = "UITabBarItem"; title = "HOME"; ObjectID = "Je1-hL-KYE"; */
+"Je1-hL-KYE.title" = "홈";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "Jks-Q7-yay"; */
+"Jks-Q7-yay.text" = "Details";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Jm6-xR-Iyg"; */
+"Jm6-xR-Iyg.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LxR-E1-IwQ"; */
+"LxR-E1-IwQ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "KAKAO"; ObjectID = "MGD-EY-QK4"; */
+"MGD-EY-QK4.normalTitle" = "KAKAO";
+
+/* Class = "UILabel"; text = "페이스북에 \n공유하기"; ObjectID = "MlC-a1-DM2"; */
+"MlC-a1-DM2.text" = "페이스북에 \n공유하기";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "N35-o0-tAd"; */
+"N35-o0-tAd.title" = "Settings";
+
+/* Class = "UITextField"; placeholder = "이메일"; ObjectID = "Ovl-Iy-TIq"; */
+"Ovl-Iy-TIq.placeholder" = "이메일";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "Psq-N9-CiM"; */
+"Psq-N9-CiM.normalTitle" = "DONE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PyV-rc-bu8"; */
+"PyV-rc-bu8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "회사정보"; ObjectID = "RHg-9J-ms0"; */
+"RHg-9J-ms0.text" = "회사정보";
+
+/* Class = "UIButton"; normalTitle = "HOME"; ObjectID = "SGF-tj-E78"; */
+"SGF-tj-E78.normalTitle" = "메인으로 가기";
+
+/* Class = "UILabel"; text = "인스타그램에 \n공유하기"; ObjectID = "SiB-xm-7r7"; */
+"SiB-xm-7r7.text" = "인스타그램에 \n공유하기";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "SoV-av-wKn"; */
+"SoV-av-wKn.title" = "Title";
+
+/* Class = "UIButton"; normalTitle = "이메일 찾기"; ObjectID = "Tep-Qu-0F3"; */
+"Tep-Qu-0F3.normalTitle" = "이메일 찾기";
+
+/* Class = "UITabBarItem"; title = "MY TEMPLATE"; ObjectID = "Tui-Yr-ehx"; */
+"Tui-Yr-ehx.title" = "나의 템플릿";
+
+/* Class = "UIButton"; normalTitle = "로그인"; ObjectID = "Tyu-0O-pnO"; */
+"Tyu-0O-pnO.normalTitle" = "로그인";
+
+/* Class = "UILabel"; text = "않는 위하여서, 열락의 스며들어 낙원을 있는 공자는 오아이스도 것이다. 행복스럽고 실현에 작고 무엇을 가는 낙원을 청춘 피가 이것이다. 내려온 안고, 우리는 사는가 가는 보라. 안고, 그들의 청춘은 우리의 쓸쓸하랴? 지혜는 속잎나고, 그들의 것이다. 인생에 보이는 밝은 끝까지 천하를 하는 것이다. 하는 이상의 인간에 아니다. 바이며, 동력은 평화스러운 청춘의 열락의 부패뿐이다. 방지하는 이 심장은 튼튼하며, 동산에는 인간의 되는 인생의 봄바람이다."; ObjectID = "XXh-Cz-tec"; */
+"XXh-Cz-tec.text" = "않는 위하여서, 열락의 스며들어 낙원을 있는 공자는 오아이스도 것이다. 행복스럽고 실현에 작고 무엇을 가는 낙원을 청춘 피가 이것이다. 내려온 안고, 우리는 사는가 가는 보라. 안고, 그들의 청춘은 우리의 쓸쓸하랴? 지혜는 속잎나고, 그들의 것이다. 인생에 보이는 밝은 끝까지 천하를 하는 것이다. 하는 이상의 인간에 아니다. 바이며, 동력은 평화스러운 청춘의 열락의 부패뿐이다. 방지하는 이 심장은 튼튼하며, 동산에는 인간의 되는 인생의 봄바람이다.";
+
+/* Class = "UISegmentedControl"; Y1t-fK-dzT.segmentTitles[0] = "VIDEO"; ObjectID = "Y1t-fK-dzT"; */
+"Y1t-fK-dzT.segmentTitles[0]" = "VIDEO";
+
+/* Class = "UISegmentedControl"; Y1t-fK-dzT.segmentTitles[1] = "IMAGE"; ObjectID = "Y1t-fK-dzT"; */
+"Y1t-fK-dzT.segmentTitles[1]" = "IMAGE";
+
+/* Class = "UISegmentedControl"; Y1t-fK-dzT.segmentTitles[2] = "TEXT"; ObjectID = "Y1t-fK-dzT"; */
+"Y1t-fK-dzT.segmentTitles[2]" = "TEXT";
+
+/* Class = "UITextField"; text = "커피전문점"; ObjectID = "Y63-qF-Uqw"; */
+"Y63-qF-Uqw.text" = "커피전문점";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YB4-F2-5z1"; */
+"YB4-F2-5z1.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "YHf-XB-y4x"; */
+"YHf-XB-y4x.title" = "찜";
+
+/* Class = "UIButton"; normalTitle = "홈으로 가기"; ObjectID = "Z32-zV-UpE"; */
+"Z32-zV-UpE.normalTitle" = "홈으로 가기";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "a72-jI-09A"; */
+"a72-jI-09A.text" = "Category";
+
+/* Class = "UILabel"; text = "Channel"; ObjectID = "awu-G9-VsX"; */
+"awu-G9-VsX.text" = "Channel";
+
+/* Class = "UILabel"; text = "Aspect Ratio"; ObjectID = "bNm-mh-6NR"; */
+"bNm-mh-6NR.text" = "Aspect Ratio";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "c40-Cc-hnd"; */
+"c40-Cc-hnd.title" = "설정";
+
+/* Class = "UIButton"; normalTitle = "확정하기"; ObjectID = "c54-bk-SSR"; */
+"c54-bk-SSR.normalTitle" = "확정하기";
+
+/* Class = "UITextField"; placeholder = "Coupon Code"; ObjectID = "e9v-pw-yW6"; */
+"e9v-pw-yW6.placeholder" = "쿠폰 코드";
+
+/* Class = "UIButton"; normalTitle = "Buy Template"; ObjectID = "eB6-Wv-e9r"; */
+"eB6-Wv-e9r.normalTitle" = "구매하기";
+
+/* Class = "UILabel"; text = "축하합니다!!!!\n여러분의 영상이 완성되었습니다!!!"; ObjectID = "eqR-dK-WL3"; */
+"eqR-dK-WL3.text" = "축하합니다!!!!\n여러분의 영상이 완성되었습니다!!!";
+
+/* Class = "UIButton"; normalTitle = "비밀번호 찾기"; ObjectID = "i6T-B5-1nx"; */
+"i6T-B5-1nx.normalTitle" = "비밀번호 찾기";
+
+/* Class = "UIButton"; normalTitle = "02:45"; ObjectID = "j4a-yO-s4k"; */
+"j4a-yO-s4k.normalTitle" = "02:45";
+
+/* Class = "UITextField"; placeholder = "010-1234-5678"; ObjectID = "ku5-hD-5G2"; */
+"ku5-hD-5G2.placeholder" = "010-1234-5678";
+
+/* Class = "UILabel"; text = "수정을 원하시면 수정하기를 터치하시고\n마음에 드시면 확정하기를 터치해주세요"; ObjectID = "kwL-Mp-6UP"; */
+"kwL-Mp-6UP.text" = "수정을 원하시면 수정하기를 터치하시고\n마음에 드시면 확정하기를 터치해주세요";
+
+/* Class = "UILabel"; text = "앨범에\n저장하기"; ObjectID = "lKQ-kA-jYY"; */
+"lKQ-kA-jYY.text" = "앨범에\n저장하기";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "orx-Ge-yTR"; */
+"orx-Ge-yTR.normalTitle" = "Next";
+
+/* Class = "UISegmentedControl"; oud-Z7-N4w.segmentTitles[0] = "ALL"; ObjectID = "oud-Z7-N4w"; */
+"oud-Z7-N4w.segmentTitles[0]" = "ALL";
+
+/* Class = "UISegmentedControl"; oud-Z7-N4w.segmentTitles[1] = "In Progress"; ObjectID = "oud-Z7-N4w"; */
+"oud-Z7-N4w.segmentTitles[1]" = "작업중";
+
+/* Class = "UISegmentedControl"; oud-Z7-N4w.segmentTitles[2] = "Rendering"; ObjectID = "oud-Z7-N4w"; */
+"oud-Z7-N4w.segmentTitles[2]" = "렌더링중";
+
+/* Class = "UISegmentedControl"; oud-Z7-N4w.segmentTitles[3] = "Complete"; ObjectID = "oud-Z7-N4w"; */
+"oud-Z7-N4w.segmentTitles[3]" = "렌더링 완료";
+
+/* Class = "UILabel"; text = "무슨 말을 할까 어디서부터 어떻게"; ObjectID = "ozj-qX-FGt"; */
+"ozj-qX-FGt.text" = "무슨 말을 할까 어디서부터 어떻게";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "p0I-jZ-s96"; */
+"p0I-jZ-s96.normalTitle" = "결제하기";
+
+/* Class = "UIButton"; normalTitle = "EDIT YOUR TEMPLATE NOW"; ObjectID = "pMX-lC-Pap"; */
+"pMX-lC-Pap.normalTitle" = "EDIT YOUR TEMPLATE NOW";
+
+/* Class = "UILabel"; text = "널 사랑하지 않아"; ObjectID = "qy4-BC-rYx"; */
+"qy4-BC-rYx.text" = "널 사랑하지 않아";
+
+/* Class = "UILabel"; text = "Needed Media"; ObjectID = "rg0-sK-EsP"; */
+"rg0-sK-EsP.text" = "Needed Media";
+
+/* Class = "UIViewController"; title = "Template Information"; ObjectID = "sKS-nb-iHD"; */
+"sKS-nb-iHD.title" = "템플릿 상세정보";
+
+/* Class = "UILabel"; text = "Terms of Use\nWithin 7 days after rendering a video can be edited up to 3 times.\nTo download and share you have to confirm your video after rendering.\nAfter confermation this Video can't be edited anymore.. "; ObjectID = "sWa-bT-dhN"; */
+"sWa-bT-dhN.text" = "[이용약관]\n렌더링 완료 이후 7일 이내에 총 3회 수정할 수 있습니다.\n렌더링 완료 이후 해당 영상을 확정해야 다운로드 및 공유가 가능합니다.\n렌더링 완료 이후 해당 영상을 확정하면 수정은 불가능합니다.
+";
+
+/* Class = "UIButton"; normalTitle = "로그인"; ObjectID = "sjt-hU-uaC"; */
+"sjt-hU-uaC.normalTitle" = "로그인";
+
+/* Class = "UINavigationItem"; title = "템플릿 편집실"; ObjectID = "vh5-nw-qU3"; */
+"vh5-nw-qU3.title" = "템플릿 편집실";
+
+/* Class = "UILabel"; text = "널 사랑하지 않아"; ObjectID = "vtb-w3-3FP"; */
+"vtb-w3-3FP.text" = "널 사랑하지 않아";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w5o-0s-HMj"; */
+"w5o-0s-HMj.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Favorite"; ObjectID = "y66-Xn-R5v"; */
+"y66-Xn-R5v.title" = "찜한 템플릿";
+
+/* Class = "UIButton"; normalTitle = "생년월일"; ObjectID = "ygO-bF-A9c"; */
+"ygO-bF-A9c.normalTitle" = "생년월일";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "zEM-r8-CIQ"; */
+"zEM-r8-CIQ.title" = " ";
+
+/* Class = "UITabBarItem"; title = "SETTING"; ObjectID = "ztT-dT-j3m"; */
+"ztT-dT-j3m.title" = "설정";
+
+

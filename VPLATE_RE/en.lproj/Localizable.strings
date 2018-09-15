@@ -1,0 +1,141 @@
+/* 
+  Localizable.strings
+  VPLATE_RE
+
+  Created by 이광용 on 2018. 6. 25..
+  Copyright © 2018년 이광용. All rights reserved.
+*/
+/* Home */
+"Needs Coupon" = "Needs Coupon"; // "쿠폰 결제"
+"Money" = "$"; // "원"
+/* Filter */
+"All" = "All"; // "전체"
+"Restaurant" = "Restaurant"; // "음식점"
+"Foodtruck" = "Foodtruck"; // "푸드트럭"
+"Cafe" = "Cafe"; // "카페"
+"Fashion" = "Fashion"; // "패션"
+"Travel" = "Travel"; // "여행"
+"Hospital" = "Hospital"; // "병원"
+"Service" = "Service"; // "서비스"
+"Product" = "Product"; // "제품"
+
+"Facebook" = "Facebook"; // "페이스북"
+"Instagram" = "Instagram"; // "인스타그램"
+"YouTube" = "YouTube"; // "유튜브"
+"Blog" = "Blog"; // "블로그"
+"Business Pitching" = "Pitching"; // "비즈니스 피칭"
+"Digital Signage" = "Digital Signage"; // "전자 간판"
+/* Template Information */
+"Video Clips" = "Video Clips"; // "개"
+"Images" = "Images"; // "개"
+
+/* Receipt */
+"Your payment was succesfull!" = "Your payment was succesfull!"; // "결제가 완료되었습니다."
+"Your payment was unsuccesfull." = "Your payment was unsuccesfull."; // "결제가 실패하였습니다."
+"Edit Template" = "Edit Template"; // "템플릿 적용하러 가기"
+"Try Again" = "Try Again"; // "다시 시도하기"
+다
+
+/* Tutorial */
+"Sample Image" = "Sample Image"; // "샘플 이미지"
+"Next" = "Next"; //"다음"
+"First Frame Tutorial" = "By clicking on the first frame, enter\nall Video,다Image and Text needed."; // "첫번째 장면을 눌러 들어갈\n영상/이미지/텍스트를 순서대로 넣어주세요"
+"Manual Tutorial" = "Not sure how to edit your Video?\nTry the Shooting Manual.";// "촬영이 어려우신가요?\n촬영가이드"
+"Next Frame Tutorial" = "Keep on editing by\nselecting the next frame."; // "나머지 장면을 눌러서 같은 방법으로\n편집해주세요."
+"Completion Tutorial" = "If you completed editing,\nTap the Done button\nin the upper right corner."; // "장면 편집이 모두 완료되면 우측 상단에\n'완료'를 눌러주세요."
+"Done Tutorial" = "After 5 to 10 minutes you will be able\nto review your completed video."; // "완료 버튼을 누른 후\n5~10분의 렌더링 이후\n영상을 받아보실 수 있습니다."
+"Done" = "Done"; //"완료"
+/* Editor */
+"Template Editor" = "Template Editor"; // "템플릿 편집실"
+"Text" = "Text"; // "텍스트"
+"Image" = "Image"; // "사진"
+"Video" = "Video"; // "영상"
+"Video Clip Content" = "Select Your Video Clip"; // "영상을 선택하세요"
+"Image Clip Content" = "Select Your Image"; // "사진을 선택하세요."
+"Tap here to change" = "Tap here to chang"; // "이곳을 탭하여 카메라 롤을 변경하세요"
+"Select" = "Select"; // "선택"
+"Filter" = "Filter"; // "필터"
+"Clip Length" = "Clip Length"; // "영상 길이"
+"Seconds" = "sec"; // "초"
+"Total Length" = "Total Length"; // "필요한 시간"
+"Editor Done Alert" = "Are you sure you want to render your video like this?"; // "이대로 렌더링 하시겠습니까?"
+"Editor Fail Alert" = "You are not done editing."; // "작업 아직 완료되지않습니다.
+"Editor Back Alert" = "Are you sure you want to leave the Template Editor?"; // "편집실을 나가시겠습니까?"
+"YES" = "Yes"; // "확인"
+"NO" = "No"; // "취소"
+
+/* Login */
+"Log In" = "Log In"; // "로그인"
+"Forgot Email Address?" = "Forgot Email Address?"; // "이메일 찾기"
+"Forgot Password?" = "Forgot Password?"; // "비밀번호 찾기"
+
+/* Email & Password*/
+"Find Email Address" = "Find Email Address"; // "이메일 찾기"
+"Find Password" = "Find Password"; // "비밀번호 찾기"
+"PlaceholderName" = "Caroline Reize"; // "홍길동"
+"PlaceholderEmail" = "caroline.reize@googlemail.com"; // "caroline.reize@googlemail.com"
+"PlaceholderPhone" = "Phone Number"; // "휴대폰 번호"
+"PlaceholderCode" = "Verification Code"; // "인증번호"
+"Email or phone number is invalid" = "Email or phone number is invalid"; // "이메일이나 전화번호가 잘못되었습니다"
+"Password has been changed" = "Password has been changed"; // "비밀번호가 잘못되었습니다"
+
+/* Phone */
+"Verification" = "Verification"; // "휴대폰 인증"
+"Re-send SMS" = "Re-send SMS"; // "인증번호 다시 받기"
+"Please check the verification code again" = "Please check the verification code again"; // "인증번호가 맞는지 다시 확인 해 주세요"
+"We're working a fixing this bug\nPlease sign in by email" = "We're working a fixing this bug\nPlease sign in by email"; //"버그 수정중 입니다\n이메일로 로그인 하시기 바랍니다"
+
+/* Personal Information */
+"Personal Information" = "Personal Information"; // "개인 정보"
+"Female" = "Female"; // "여성"
+"Male" = "Male"; // "남성"
+
+"Email Error" = "Email Error"; //"이메일 오류"
+"This email already exists" = "This email already exists"; // "이미 존재하는 이메일 입니다"
+"Please enter a valid email format" = "Please enter a valid email format"; // "올바른 이메일 형식을 입력해주세요"
+
+"Reset Your Password" = "Reset Your Password"; // "비밀번호 변경하기"
+"Set Password" = "Password"; // "비밀번호 설정"
+
+"Business Information" = "Business Information"; // "회사 정보"
+"Register Error" = "Register Error"; // "가입 오류"
+"PlaceholderBizContent" = "PlaceholderBizContent"; // "e.g. 커피전문점"
+"PlaceholderBizAddress" = "PlaceholderBizAddress"; // "도/시 시/군/구"
+
+/* Settings */
+"Account Setting" = "Account Setting"; // "계정 설정"
+"View Tutorial Again" = "View Tutorial Again"; // "튜토리얼 다시 보기"
+"Terms" = "Terms"; // "약관"
+"Notices" = "Notices"; // "공지사항"
+"Push Alarm" = "Push Alarm"; // "푸시 설정"
+"Log Out" = "Log Out"; // "로그아웃"
+요
+
+/* Render Result */
+"Share" = "Share"; // "공유"
+"Rendering Complete" = "R요ndering Complete"; // "렌더링 완료"
+"Your video has been saved to your album" = "Your video has been saved to your album"; // "앨범에 저장 되었습니다"
+"The video is confirmed" = "The video is confirmed"; // "영상이 확정되었습니다"
+"Can't modify anymore" = "Can't modify anymore"; // "더이상 수정할 수 없습니다"
+"Please install Facebook" = "Please install Facebook"; // "페이스북을 설치해 주세요"
+
+/* Editing Tips */
+"Editing Tips" = "Editing Tips"; // "편집 팁"
+
+/* My Template */
+"In Progress" = "In Progress"; // "작업중"
+"Rendering" = "Rendering"; // "렌더링"
+"Complete" = "Complete"; // "렌더링 완료"
+"Confirmed" = "Confirmed"; // "확정"
+"Editing" = "Editing"; // "수정중"
+"Please confirm your video!" = "Please confirm your video!"; // "영상을 확인하세요!"
+"You can re-edit this video\n1 more times!" = "You can re-edit this video\n1 more times!"; // "수정 1번 더 가능합니다!"
+"You can re-edit this video\n2 more times!" = "You can re-edit this video\n2 more times!"; // "수정 2번 더 가능합니다!"
+"It's not editable anymore!" = "It's not editable anymore!"; // "더이상 수정할 수 없습니다"
+
+
+
+
+
+
+

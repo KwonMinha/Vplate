@@ -1,0 +1,138 @@
+/* 
+  Localizable.strings
+  VPLATE_RE
+
+  Created by 이광용 on 2018. 6. 25..
+  Copyright © 2018년 이광용. All rights reserved.
+*/
+/* Home */
+"Needs Coupon" = "쿠폰 결제";
+"Money" = "₩";
+/* Filter */
+"All" = "전체";
+"Restaurant" = "음식점";
+"Foodtruck" = "푸드트럭";
+"Cafe" = "카페";
+"Fashion" = "패션";
+"Travel" = "여행";
+"Hospital" = "병원";
+"Service" = "서비스";
+"Product" = "제품";
+
+"Facebook" = "페이스북";
+"Instagram" = "인스타그램";
+"YouTube" = "유튜브";
+"Blog" = "블로그";
+"Business Pitching" = "비즈니스 피칭";
+"Digital Signage" = "전자 간판";
+/* Template Information */
+"Video Clips" = "개";
+"Images" = "개";
+
+/* Receipt */
+"Your payment was succesfull!" = "결제가 완료되었습니다.";
+"Your payment was unsuccesfull." = "결제가 실패하였습니다.";
+"Edit Template" = "템플릿 적용하러 가기";
+"Try Again" = "다시 시도하기";
+"This coupon code does not exist" = "쿠폰코드가 일치하지 않습니다";
+"Your coupon was applied" = "이미 사용된 쿠폰입니다";
+
+/* Tutorial */
+"Sample Image" = "샘플 이미지";
+"Next" = "다음";
+"First Frame Tutorial" = "첫번째 장면을 눌러 들어갈\n영상/이미지/텍스트를 순서대로 넣어주세요";
+"Manual Tutorial" = "촬영이 어려우신가요?\n촬영가이드";
+"Next Frame Tutorial" = "나머지 장면을 눌러서 같은 방법으로\n편집해주세요.";
+"Completion Tutorial" = "장면 편집이 모두 완료되면 우측 상단에\n'완료'를 눌러주세요.";
+"Done Tutorial" = "완료 버튼을 누른 후\n5~10분의 렌더링 이후\n영상을 받아보실 수 있습니다.";
+"Done" = "완료";
+/* Editor */
+"Template Editor" = "템플릿 편집실";
+"Text" = "텍스트";
+"Image" = "사진";
+"Video" = "영상";
+"Video Clip Content" = "영상을 선택하세요";
+"Image Clip Content" = "사진을 선택하세요.";
+"Tap here to change" = "이곳을 탭하여 카메라 롤을 변경하세요";
+"Select" = "선택";
+"Filter" = "필터";
+"Clip Length" = "영상 길이";
+"Seconds" = "초";
+"Total Length" = "필요한 시간";
+"Editor Done Alert" = "이대로 렌더링 하시겠습니까?";
+"Editor Fail Alert" = "작업이 아직 완료되지않습니다.";
+"Editor Back Alert" = "편집실을 나가시겠습니까?";
+"YES" = "확인";
+"NO" = "취소";
+
+/* Login */
+"Log In" = "로그인";
+"Forgot Email Address?" = "이메일 찾기";
+"Forgot Password?" = "비밀번호 찾기";
+"Female" = "여성";
+"Male" = "남성";
+
+/* Email */
+"Find Email Address" = "이메일 찾기";
+"Find Password" = "비밀번호 찾기";
+"PlaceholderName" = "홍길동";
+"PlaceholderEmail" = "caroline.reize@googlemail.com";
+"PlaceholderPhone" = "휴대폰 번호";
+"PlaceholderCode" = "인증번호";
+"Email or phone number is invalid" = "이메일이나 전화번호가 잘못되었습니다";
+"Password has been changed" = "비밀번호가 잘못되었습니다";
+
+/* Phone */
+"Verification" = "휴대폰 인증";
+"Re-send SMS" = "인증번호 다시 받기";
+"Please check the verification code again" = "인증번호가 맞는지 다시 확인 해 주세요";
+"We're working a fixing this bug\nPlease sign in by email" = "버그 수정중 입니다\n이메일로 로그인 하시기 바랍니다";
+
+/* Personal Information */
+"Personal Information" = "개인 정보";
+
+"Email Error" = "이메일 오류";
+"This email already exists" = "이미 존재하는 이메일 입니다";
+"Please enter a valid email format" = "올바른 이메일 형식을 입력해주세요";
+
+"Reset Your Password" = "비밀번호 변경하기";
+"Set Password" = "비밀번호 설정";
+
+"Business Information" = "회사 정보";
+"Register Error" = "가입 오류";
+"PlaceholderBizContent" = "e.g. 커피전문점";
+"PlaceholderBizAddress" = "도/시 시/군/구";
+
+/* Settings */
+"Account Setting" = "계정 설정";
+"View Tutorial Again" = "튜토리얼 다시 보기";
+"Terms" = "약관";
+"Notices" = "공지사항";
+"Push Alarm" = "푸시 설정";
+"Log Out" = "로그아웃";
+"Please fill all the values" = "모든 값을 채워주세요";
+
+
+/* Render Result */
+"Share" = "공유";
+"Rendering Complete" = "렌더링 완료";
+"Your video has been saved to your album" = "앨범에 저장 되었습니다";
+"The video is confirmed" = "영상이 확정되었습니다";
+"Can't modify anymore" = "더이상 수정할 수 없습니다";
+"Please install Facebook" = "페이스북을 설치해 주세요";
+
+/* Editing Tips */
+"Editing Tips" = "편집 팁";
+
+/* My Template */
+"In Progress" = "작업중";
+"Rendering" = "렌더링 중";
+"Complete" = "렌더링 완료";
+"Confirmed" = "확정";
+"Editing" = "수정중";
+"Please confirm your video!" = "영상을 확인하세요!";
+"You can re-edit this video\n1 more times!" = "수정 1번 더 가능합니다!";
+"You can re-edit this video\n2 more times!" = "수정 2번 더 가능합니다!";
+"It's not editable anymore!" = "더이상 수정할 수 없습니다";
+
+

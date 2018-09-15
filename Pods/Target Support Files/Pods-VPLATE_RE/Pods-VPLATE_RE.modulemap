@@ -1,0 +1,6 @@
+framework module Pods_VPLATE_RE {
+  umbrella header "Pods-VPLATE_RE-umbrella.h"
+
+  export *
+  module * { export * }
+}
